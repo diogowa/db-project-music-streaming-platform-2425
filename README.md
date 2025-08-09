@@ -9,7 +9,7 @@ For this **Database** course project at NOVA FCT, we designed a database to simu
 
 Below is the Entity-relationship model of the database:
 
-![er model](images/entity-relationship%20model.png)
+![er model](images/der-model.png)
 
 ## Tech Stack
 
